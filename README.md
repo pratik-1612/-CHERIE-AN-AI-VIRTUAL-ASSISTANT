@@ -73,9 +73,9 @@ from datetime import date, datetime
 ## Got Bugs?
 * If any bug raise issues here: https://github.com/pratik-1612/-CHERIE-AN-AI-VIRTUAL-ASSISTANT/issues
 
-# Suggestion-
-* Want more features / Ideas/ Discussions etc.
-Suggest here https://github.com/Dipeshpal/Jarvis_AI/discussions
-
+## Contact me-
+* https://www.instagram.com/pratik.1612/
+* pratikgore16@gmail.com
+* https://www.linkedin.com/in/pratik-gore-50160b17b/
 
 
