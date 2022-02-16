@@ -1,4 +1,4 @@
-# -CHERIE-AN-AI-VIRTUAL-ASSISTANT
+# CHERIE AN AI VIRTUAL ASSISTANT
 In this project, we are going to create a Python based AI Virtual Assistant so called 'Cherie' which can do various useful tasks by taking voice commands as an input and perform different kinds of operations accordingly.This code will help you to get through the basics of building your own digital virtual assistant in Python.
 
 ## IMPORTANT MOUDULES AND LIBRARIES :
@@ -28,9 +28,9 @@ Requests is a simple, yet elegant, HTTP library.
 pip install pyttsx3
  
 pip install SpeechRecognition
-
+                                
 pip install Wikipedia
-
+                                                              
 pip install webbrowser
 
 pip install pywhatkit
@@ -38,6 +38,7 @@ pip install pywhatkit
 pip install pyjokes
 
 pip install requests
+
 
 
 When running this code on PyCharm, you might encounter an error regarding PyAudio and will have to download that library.
