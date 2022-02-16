@@ -71,6 +71,11 @@ from datetime import date, datetime
 
 
 ## Got Bugs?
-* If bug is in JarvisAI library then raise issue here: https://github.com/Dipeshpal/Jarvis_AI/issues
-* If bug is in this example script then raise issue here: https://github.com/Dipeshpal/Jarvis-Assisant/issues
+* If any bug raise issues here: https://github.com/pratik-1612/-CHERIE-AN-AI-VIRTUAL-ASSISTANT/issues
+
+# Suggestion-
+* Want more features / Ideas/ Discussions etc.
+Suggest here https://github.com/Dipeshpal/Jarvis_AI/discussions
+
+
 
